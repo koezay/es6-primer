@@ -1,0 +1,19 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "koze should have paid attention in class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koezay/es6-primer.git"
+  },
+  "author": "kozetuo ofuje apeji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koezay/es6-primer/issues"
+  },
+  "homepage": "https://github.com/koezay/es6-primer#readme"
+}
